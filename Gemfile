@@ -4,9 +4,9 @@ gem 'bundler', '2.4.13'
 gem 'rails', '7.0.5'
 gem 'sqlite3'
 group :assets do
-  gem 'sass-rails',   '~> 3.2.3'
-  gem 'coffee-rails', '~> 3.2.1'
-  gem 'uglifier', '>= 1.0.3'
+  gem 'sass-rails',   '~> 6.0.0'
+  gem 'coffee-rails', '~> 5.0.0'
+  gem 'uglifier', '>= 4.2.0'
 end
 gem 'jquery-rails'
 gem 'bootstrap-sass'
