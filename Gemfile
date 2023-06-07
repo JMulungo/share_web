@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.7.2'
 gem 'bundler', '2.4.13' 
-gem 'rails', '3.2.13'
+gem 'rails', '7.0.5'
 gem 'sqlite3'
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
